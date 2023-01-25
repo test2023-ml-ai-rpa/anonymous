@@ -1,0 +1,11 @@
+Tid,Refund,Martial_Status,Taxable_income,Class
+1,yes,single,125k,no,
+2,no,married,100k,no,
+3,no,single,70k,no,
+4,yes,married,120k,no,
+5,no,divorced,65k,yes,
+6,no,married,70k,no,
+7,yes,divorced,200k,no,
+8,no,married,85k,yes,
+9,no,single,75k,no,
+10,no,married,90k,yes,
