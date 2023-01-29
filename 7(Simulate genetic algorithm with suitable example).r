@@ -1,0 +1,6 @@
+f <- function(x) abs(x) + cos(x)
+curve(f, -20, 20)
+fitness <- function(x) -f(x)
+ga <- ga(type = "real-valued", fitness = fitness, lower = -20, upper = 20)
+summary(ga)
+plot(ga)
